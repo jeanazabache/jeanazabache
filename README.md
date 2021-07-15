@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software engineer at Microsoft and **creator of Vida MRR**, a personal project dedicated to help other developers to increase their technical skills in web design, web development, problems solving, and more. My main programming languages/platforms are: Javascript, Typescript, Node.js, Azure, PHP and Kotlin.
+Software engineer at Everis NNT and **creator of Vida MRR**, a personal project dedicated to help other developers to increase their technical skills in web design, web development, problems solving, and more. My main programming languages/platforms are: Javascript, Typescript, Node.js, Azure, PHP and Kotlin.
 
 Here are some ideas to get you started:
 
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- 👍 [Facebook](https://www.facebook.com/vidamrr "Vida MRR Blog"), 🐦[Twitter](https://www.twitter.com/vidamrr "Twitter profile"), 📷[Instagram](https://www.instagram.com/vidamrr "Instagram account") and 🎵[Tiktok](https://www.tiktok.com/@vidamrr "Tiktok profile")
+- 👍 [Facebook](https://www.facebook.com/jean.am27/ "Vida MRR Blog"), 🐦[Twitter](https://www.twitter.com/azabache_jean "Twitter profile"), 📷[Instagram](https://www.instagram.com/jeanazabachem/ "Instagram account") and 🎵[Tiktok](https://www.tiktok.com/@jeanam_7 "Tiktok profile")
 - 💼 My personal [Linkedin](https://www.linkedin.com/in/jean-azabache-medina/ "Linkedin profile")
