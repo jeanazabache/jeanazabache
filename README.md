@@ -2,7 +2,7 @@
 
 Systems engineer at **Everis NTT**  and **XitBlue**, a personal project dedicated to help other developers to increase their technical skills in web design, web development, problems solving, and more. My main programming languages/platforms are: FireBase, Node.js, Azure, Javascript, C# and Kotlin.
 
-You can follow me in the next sites/platforms where I constantly publish new content 😊
+You can follow me in the next sites/platforms 😊
 
-- 📫 [Facebook](https://www.facebook.com/jean.am27/ "Vida MRR Blog"), ⚡[Twitter](https://www.twitter.com/azabache_jean "Twitter profile"), 📷[Instagram](https://www.instagram.com/jeanazabachem/ "Instagram account") and 🎵[Tiktok](https://www.tiktok.com/@jeanam_7 "Tiktok profile")
+- 📫 [Facebook](https://www.facebook.com/jean.am27/ "Vida MRR Blog"), ⚡ [Twitter](https://www.twitter.com/azabache_jean "Twitter profile"), 📷 [Instagram](https://www.instagram.com/jeanazabachem/ "Instagram account") and 🎵 [Tiktok](https://www.tiktok.com/@jeanam_7 "Tiktok profile")
 - 💼 My personal [Linkedin](https://www.linkedin.com/in/jean-azabache-medina/ "Linkedin profile")
