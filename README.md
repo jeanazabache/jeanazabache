@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Systems engineer at Everis NNT and **creator of Vida MRR**, a personal project dedicated to help other developers to increase their technical skills in web design, web development, problems solving, and more. My main programming languages/platforms are: FireBase, Node.js, Azure, Javascript, C# and Kotlin.
+Systems engineer at **Everis NTT**  and **XitBlue**, a personal project dedicated to help other developers to increase their technical skills in web design, web development, problems solving, and more. My main programming languages/platforms are: FireBase, Node.js, Azure, Javascript, C# and Kotlin.
 
 You can follow me in the next sites/platforms where I constantly publish new content 😊
 
