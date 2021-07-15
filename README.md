@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
+
 **jeanazabache/jeanazabache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Software engineer at Microsoft and **creator of Vida MRR**, a personal project dedicated to help other developers to increase their technical skills in web design, web development, problems solving, and more. My main programming languages/platforms are: Javascript, Typescript, Node.js, Azure, PHP and Kotlin.
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
