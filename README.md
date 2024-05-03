@@ -4,5 +4,4 @@ Cloud Solutions Architect at **NTTDATA**, a personal project dedicated to help o
 
 You can follow me in the next sites/platforms 😊
 
-- 📫 [Facebook](https://www.facebook.com/jean.am27/ "Facebook Profile"), ⚡ [Twitter](https://www.twitter.com/azabache_jean "Twitter Profile"), 📷 [Instagram](https://www.instagram.com/jeanazabachem/ "Instagram Profile") and 🎵 [Tiktok](https://www.tiktok.com/@jeanam_7 "Tiktok Profile")
 - 💼 My personal [Linkedin](https://www.linkedin.com/in/jean-azabache-medina/ "Linkedin Profile")
